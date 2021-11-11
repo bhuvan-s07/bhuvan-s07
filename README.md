@@ -1,6 +1,6 @@
 - 👋 Hi, I’m bhuvan
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...AI&DS
+- 🌱 I’m currently learning ...PYTHON
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...instagram @b.h.u.v.i.07
 
